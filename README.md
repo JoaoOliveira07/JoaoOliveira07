@@ -25,9 +25,6 @@
 - 🌱 &nbsp;Estudando **Microservices, Docker & Clean Architecture**
 - 💼 &nbsp;Experiência com **JPA, Hibernate, Spring Security**
 - 🗄️ &nbsp;Bancos de dados: **PostgreSQL & MySQL**
-- 🥋 &nbsp;Fora do código: **Jiu-Jitsu**
-- ☕ &nbsp;Movido a café
-- 📬 &nbsp;**jpauloo.2003@gmail.com**
 
 <br/><br/><br/>
 
