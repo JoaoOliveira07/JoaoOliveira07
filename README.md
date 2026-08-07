@@ -74,25 +74,10 @@
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoOliveira07&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2196F3&icon_color=2196F3"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoOliveira07&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=2196F3"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=JoaoOliveira07&mode=daily&theme=dark&hide_border=true&border_radius=5&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" height="195"/>
 </div>
 
-<br/>
-
----
-
-### 📈 &nbsp;Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoOliveira07&theme=github-compact&hide_border=true&color=2196F3&line=2196F3&point=ffffff" width="100%"/>
-</div>
-
-<br/>
 
 ---
 
@@ -103,5 +88,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
+<p align="center">
+  <a href="https://honorbadge.curbas.dev/JoaoOliveira07"><img src="https://honorbadge.curbas.dev/JoaoOliveira07/badge.svg" alt="HonorBadge" /></a>
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:1a3a5c,100:0d1117&height=120&section=footer"/>
