@@ -78,9 +78,9 @@ Backend Developer with **3 years of experience**, currently working as a **Mid-L
 </div>
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
