@@ -1,9 +1,9 @@
-name: pacman-contribution-graph
+name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # roda 1x por dia
+  workflow_dispatch:       # permite rodar manualmente
 
 permissions:
   contents: write
@@ -12,8 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: matchai/pacman-contribution-graph@v3
+      - name: Generate Pacman contribution graph
+        uses: matchai/pacman-contribution-graph@v3
         with:
           github_user_name: JoaoOliveira07
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          days: 365
+          output_repository: JoaoOliveira07/JoaoOliveira07  # repo onde o SVG vai ser commitado
+          # branch de saída — se o parâmetro existir na action, defina como pacman-output
