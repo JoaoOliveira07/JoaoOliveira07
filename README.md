@@ -1,21 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2196F3&height=180&section=header&text=João%20Paulo%20Oliveira&fontSize=45&fontColor=fff&fontAlignY=40&desc=Java%20Backend%20Developer%20%7C%20Brazil%20🇧🇷&descColor=90CAF9&descAlignY=62&animation=fadeIn"/>
 
-
-<div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
 <br/>
 
-### 👋 About Me
+### 👋 Sobre mim
 
-Backend Developer with **3 years of experience**, currently working as a **Mid-Level Software Developer** at **Segala's Alimentos**, building scalable solutions with **Java & Spring Boot** and cloud infrastructure on **AWS/Terraform**. 
+Backend Developer com **3 anos de experiência**, atualmente atuando como **Desenvolvedor de Software Pleno** na **Segala's Alimentos**, construindo soluções escaláveis com **Java & Spring Boot** e infraestrutura em nuvem com **AWS/Terraform**.
+
 <p align="left">
   <a href="https://honorbadge.curbas.dev/JoaoOliveira07"><img src="https://honorbadge.curbas.dev/JoaoOliveira07/badge.svg" alt="HonorBadge" /></a>
 </p>
+
 <br/>
 
 ### 🛠️ Tech Stack
@@ -54,27 +48,13 @@ Backend Developer with **3 years of experience**, currently working as a **Mid-L
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
-###
-
-<br/>
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 💰 [**finance-dashboard**](https://github.com/JoaoOliveira07/finance-dashboard) | Java backend API for personal finance management |
-| 🖥️ [**finance-dashboard-frontend**](https://github.com/JoaoOliveira07/finance-dashboard-frontend) | Frontend for finance-dashboard |
-| 📄 [**document-validation-poc**](https://github.com/JoaoOliveira07/document-validation-poc) | Automated document validation proof of concept |
-| ⏱️ [**commitclock**](https://github.com/JoaoOliveira07/commitclock) | Tool to track GitHub commit habits |
-| 🌐 [**portfolio-joao**](https://github.com/JoaoOliveira07/portfolio-joao) | Personal portfolio website |
-
 <br/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoOliveira07&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=2196F3"/>
-  <img src="https://streak-stats.demolab.com?user=JoaoOliveira07&mode=daily&theme=dark&hide_border=true&border_radius=5&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" height="165"/>
+  <img width="49%" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoOliveira07&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=2196F3"/>
+  <img width="49%" height="165" src="https://streak-stats.demolab.com?user=JoaoOliveira07&mode=daily&theme=dark&hide_border=true&border_radius=5&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"/>
 </div>
 
 <picture data-importer="pacman">
@@ -83,6 +63,31 @@ Backend Developer with **3 years of experience**, currently working as a **Mid-L
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br/>
+
+### 📌 Projetos em destaque
+
+Alguns projetos que mostram um pouco do que venho construindo:
+
+| Projeto | Descrição |
+|---|---|
+| 💰 [**finance-dashboard**](https://github.com/JoaoOliveira07/finance-dashboard) | API backend em Java para gestão financeira pessoal |
+| 🖥️ [**finance-dashboard-frontend**](https://github.com/JoaoOliveira07/finance-dashboard-frontend) | Frontend do finance-dashboard |
+| 📄 [**document-validation-poc**](https://github.com/JoaoOliveira07/document-validation-poc) | Prova de conceito de validação automatizada de documentos |
+| ⏱️ [**commitclock**](https://github.com/JoaoOliveira07/commitclock) | Ferramenta para acompanhar hábitos de commit no GitHub |
+| 🌐 [**portfolio-joao**](https://github.com/JoaoOliveira07/portfolio-joao) | Site pessoal de portfólio |
+
+<br/>
+
+### 📫 Contato
+
+Vamos trocar uma ideia? Me encontre por aqui:
+
+<div data-importer="socials" align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:1a3a5c,100:0d1117&height=100&section=footer"/>
