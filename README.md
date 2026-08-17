@@ -69,8 +69,15 @@ Backend Developer com **3 anos de experiência**, atualmente atuando como **Dese
 
 Alguns projetos que mostram um pouco do que venho construindo:
 
+<p align="center">
+  <a href="https://github.com/JoaoOliveira07/jopes-rpg">
+    <img src="assets/jopes-rpg-preview.gif" width="600" alt="Preview do jopes-rpg" />
+  </a>
+</p>
+
 | Projeto | Descrição |
 |---|---|
+| 🎮 [**jopes-rpg**](https://github.com/JoaoOliveira07/jopes-rpg) | Portfolio de backend engineer em forma de cidade isométrica navegável |
 | 💰 [**finance-dashboard**](https://github.com/JoaoOliveira07/finance-dashboard) | API backend em Java para gestão financeira pessoal |
 | 🖥️ [**finance-dashboard-frontend**](https://github.com/JoaoOliveira07/finance-dashboard-frontend) | Frontend do finance-dashboard |
 | 📄 [**document-validation-poc**](https://github.com/JoaoOliveira07/document-validation-poc) | Prova de conceito de validação automatizada de documentos |
