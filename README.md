@@ -78,12 +78,7 @@ Backend Developer com **3 anos de experiência**, atualmente atuando como **Dese
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoOliveira07&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=2196F3"/>
-  <img width="49%" height="165" src="https://streak-stats.demolab.com?user=JoaoOliveira07&mode=daily&theme=dark&hide_border=true&border_radius=5&ring=2196F3&fire=2196F3&currStreakLabel=2196F3"/>
-</div>
+### 📊 Contribuições
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoOliveira07/JoaoOliveira07/output/pacman-contribution-graph-dark.svg">
