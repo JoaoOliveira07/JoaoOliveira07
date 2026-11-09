@@ -6,14 +6,6 @@ Desenvolvedor de Software Pleno, com **3 anos de experiência** construindo solu
 
 ---
 
-### 📌 Projeto em destaque
-
-<p align="center">
-  <a href="https://github.com/JoaoOliveira07/jopes-rpg">
-    <img src="assets/jopes-rpg-preview.gif" width="900" alt="Preview do jopes-rpg" />
-  </a>
-</p>
-
 ### 📎 Outros projetos
 
 [**finance-dashboard**](https://github.com/JoaoOliveira07/finance-dashboard) ([frontend](https://github.com/JoaoOliveira07/finance-dashboard-frontend)) · [**document-validation-poc**](https://github.com/JoaoOliveira07/document-validation-poc) · [**commitclock**](https://github.com/JoaoOliveira07/commitclock) · [**portfolio-joao**](https://github.com/JoaoOliveira07/portfolio-joao)
